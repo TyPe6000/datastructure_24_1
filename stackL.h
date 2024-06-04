@@ -1,5 +1,5 @@
 #pragma once
-typedef char element;		// 스택 원소(element)의 자료형을 char로 정의 
+typedef int element;		// 스택 원소(element)의 자료형을 int로 정의 
 
 typedef struct  stackNode {	// 스택의 노드를 구조체로 정의
 	element data;
